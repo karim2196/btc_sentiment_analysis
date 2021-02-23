@@ -7,6 +7,7 @@ from nltk import FreqDist,classify,NaiveBayesClassifier
 import re,string
 import pymongo
 import random
+import pandas
 
 def getData():
     tweet = btc_tweet_getter.getTweets()
