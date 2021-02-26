@@ -2,6 +2,8 @@
 Bitcoin sentiment analysis based on tweets from twitter 
 🤓
 https://img.shields.io/badge/version-1.0.0-blue
+[![CDNJS](https://img.shields.io/cdnjs/v/reactstrap.svg)](https://cdnjs.com/libraries/reactstrap)
+
 To do List:
 - [X] Train data from kaggle
 - [] Clean code
