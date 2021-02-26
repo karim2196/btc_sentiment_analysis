@@ -8,5 +8,7 @@ To do List:
 - [X] Train data from kaggle
 - [X] Clean code (separate modules)
 - [] Get tweet info (likes, profile followers for tweet reuptation)
-- [] throw new tweets to model, check if positive or negative, create a system evaluation (sentiment tweets on a scale between 5 and 10, 0-5 for negative (value depending on reputation))
+- [] Strength of the sentiment (10 very positive, 0 neutral, -10 very negative, use VADER)
+- [] Weigth/Score of the tweet
+- [] throw new tweets to model, save results and plot data
 - [] Write some tests
